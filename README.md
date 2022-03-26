@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  - Atualmente sou Dev no Magalu, e Trabalho na área de automação da logística, muitos microsserviços fazem a nossa diversão.
+ 🔭 Atualmente sou Dev no Magalu, e Trabalho na área de automação da logística, muitos microsserviços fazem a nossa diversão.
   
   <div style="display: inline_block"><br>
   
