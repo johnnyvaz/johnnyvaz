@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/johnnyvaz1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyvaz1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyvaz1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz1&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
  🔭 Atualmente sou Dev no Magalu, e Trabalho na área de automação da logística, muitos microsserviços fazem a nossa diversão.
