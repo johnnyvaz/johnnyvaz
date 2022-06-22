@@ -1,11 +1,11 @@
 ### Olá, eu o Johnny Vaz 👋
 
-## Me ajude no projeto [__DESLIGUE-SE__ ](https://github.com/johnnyvaz1/desligue-se)
+## Me ajude no projeto [__DESLIGUE-SE__ ](https://github.com/johnnyvaz/desligue-se)
 
 <div align="center">
-  <a href="https://github.com/johnnyvaz1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyvaz1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz1&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/johnnyvaz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyvaz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
  🔭 Atualmente sou Dev no Magalu, e Trabalho na área de automação da logística, muitos microsserviços fazem a nossa diversão.
@@ -28,7 +28,7 @@
             
           
 <!--
-**johnnyvaz1/johnnyvaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**johnnyvaz/johnnyvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
