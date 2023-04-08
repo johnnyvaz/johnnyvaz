@@ -1,6 +1,6 @@
 ### Olá, eu o Johnny Vaz 👋
 
-## Me ajude no projeto [__DESLIGUE-SE__ ](https://github.com/johnnyvaz/desligue-se)
+## Meu Site Principal [__COD2D__ ](https://cod2d.com.br)
 
 <div align="center">
   <a href="https://github.com/johnnyvaz">
