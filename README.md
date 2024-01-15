@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
- 🔭 Atualmente sou Dev no Magalu, e Trabalho na área de automação da logística, muitos microsserviços fazem a nossa diversão.
+ 🔭 Atualmente sou CEO na Cod2d, e Trabalho na área de automação da logística, muitos microsserviços fazem a nossa diversão.
   
   <div style="display: inline_block"><br>
   
