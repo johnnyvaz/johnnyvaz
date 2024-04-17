@@ -1,6 +1,5 @@
-### Olá, eu o Johnny Vaz 👋
-
-## Meu Site Principal [__COD2D__ ](https://cod2d.com.br)
+### Olá, Aqui é o Johnny Vaz 👋
+# Seja bem vindo!!
 
 <div align="center">
   <a href="https://github.com/johnnyvaz">
@@ -8,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
- 🔭 Atualmente sou CEO na Cod2d, e Trabalho na área de automação da logística, muitos microsserviços fazem a nossa diversão.
+ 🔭 Atualmente Analista e Desenvolvedor de Sistemas na Rompi.
   
   <div style="display: inline_block"><br>
   
