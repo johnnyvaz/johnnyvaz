@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor Full Stack | 🚀 Empreendedor em Tecnologia | 🧠 Mentor de Carreira
 
-Com mais de 10 anos de experiência em sistemas ERP e mais de 6 anos como Analista e Desenvolvedor de Sistemas, atuo em projetos que integram tecnologia e inovação para transformar negócios.
+Com mais de 10 anos de experiência em sistemas ERP e mais de 8 anos como Analista e Desenvolvedor de Sistemas, atuo em projetos que integram tecnologia e inovação para transformar negócios.
 
 ---
 
