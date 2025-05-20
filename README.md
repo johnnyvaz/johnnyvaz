@@ -1,40 +1,91 @@
-### Olá, Aqui é o Johnny Vaz 👋
-# Seja bem vindo!!
+---
+
+## 👋 Olá, sou Johnny Vaz
+
+🎯 Desenvolvedor Full Stack | 🚀 Empreendedor em Tecnologia | 🧠 Mentor de Carreira
+
+Com mais de 10 anos de experiência em sistemas ERP e mais de 6 anos como Analista e Desenvolvedor de Sistemas, atuo em projetos que integram tecnologia e inovação para transformar negócios.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![oaicite:11](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+![oaicite:12](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg)
+![oaicite:13](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg)
+![oaicite:14](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![oaicite:15](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg)
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg)
+![oaicite:16](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![oaicite:17](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+![oaicite:18](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+![oaicite:19](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![oaicite:20](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![oaicite:21](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)([GeeksforGeeks][1], [GitHub][2], [GitHub Docs][3], [YouTube][4], [mazer.dev][5])
+
+---
+
+## 🚀 Projetos em Destaque
+
+### [Cod2D Software](https://www.cod2d.com.br/)
+
+**Funções:** CEO, Desenvolvedor
+
+Solução integrada de ERP, CRM e E-commerce para distribuidoras de peças de reposição para smartphones, com rastreabilidade completa por QR Codes e automação inteligente de processos.
+
+### [Contrato Automático](https://contratoautomatico.com/)
+
+**Funções:** Sócio, Desenvolvedor
+
+Plataforma que utiliza IA para automatizar a geração de contratos a partir de áudios e mensagens, integrando ferramentas como Chatwoot e n8n.
+
+### [ValeCar Clube de Benefícios](https://www.parceirovalecar.com.br/)
+
+**Funções:** Sócio, Desenvolvedor
+
+Proteção veicular abrangente com contratação 100% online, sem análise de crédito, e assistência 24 horas.
+
+### [Desktop Cloud](https://www.desktopcloud.com.br/)
+
+**Funções:** Sócio, Desenvolvedor
+
+Desktops Windows na nuvem com alta performance, segurança avançada e flexibilidade, ideal para equipes remotas e operações temporárias.
+
+### [LealFidelizações](#)
+
+**Funções:** Sócio, Desenvolvedor
+
+Sistema de cashback baseado em interações via WhatsApp, onde o comerciante envia textos ou áudios para seu próprio contato, e um agente de IA interpreta e executa ações como adicionar saldo de cashback, consultar e aplicar o saldo para os clientes.
+
+### [Estude Online](https://estudeonline.com.br/)
+
+**Funções:** Sócio, Desenvolvedor, Analista
+
+Plataforma de cursos e e-books com conteúdos atualizados para auxiliar no desenvolvimento pessoal e profissional, com curadoria especial em educação digital.
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/johnnyvaz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyvaz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnyvaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyvaz&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
- 🔭 Atualmente Analista e Desenvolvedor de Sistemas na Rompi.
-  
-  <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Vue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
-    <img align="center" alt="Vue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</div>
-  
-            
-          
-<!--
-**johnnyvaz/johnnyvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Blog e Conteúdos
+
+Em breve, compartilharei artigos e tutoriais sobre desenvolvimento de software, empreendedorismo em tecnologia e transição de carreira para a área de TI. Fique atento!
+
+---
+
+## 📬 Contato
+
+* Email: [johnnyvaz@example.com](mailto:johnnyvaz@example.com)
+* LinkedIn: [linkedin.com/in/johnnyvaz](https://www.linkedin.com/in/johnnyvaz)
+* Site: [johnnyvaz.dev](https://johnnyvaz.com.br)
+
+---
