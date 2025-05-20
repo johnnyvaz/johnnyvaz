@@ -65,11 +65,10 @@ Plataforma de cursos e e-books com conteúdos de desenvolvimento pessoal e profi
 
 ## 📫 Contato
 
-- Email: [johnnyvaz@example.com](mailto:johnnyvaz@example.com)  
+- Email: [contato@johnnyvaz.com.br](mailto:contato@johnnyvaz.com.br)  
 - LinkedIn: [linkedin.com/in/johnnyvaz](https://www.linkedin.com/in/johnnyvaz)  
-- Site: [johnnyvaz.dev](https://johnnyvaz.dev)
+- Site: [johnnyvaz.dev](https://johnnyvaz.com.br)
 
 ---
 
-*Readme atualizado com foco em clareza, autoridade técnica e apresentação profissional.*
 
